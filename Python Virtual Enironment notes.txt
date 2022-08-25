@@ -1,0 +1,14 @@
+1.  Create a new Python Virtual Environment:
+python3 -m venv name_venv
+
+2.  Activate Python virtual Environment:
+source name_venv/bin/activate
+
+2.  Deactivate Python virtual Environment:
+source name_venv/bin/deactivate
+
+3.  Intall a package/library:
+pip install packagename
+
+Upgrade pip version:
+pip install --upgrade pip
