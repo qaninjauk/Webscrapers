@@ -12,3 +12,7 @@ pip install packagename
 
 Upgrade pip version:
 pip install --upgrade pip
+
+4.  Import libraries for web scraper
+import requests
+from bs4 import BeautifulSoup
